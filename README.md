@@ -1,8 +1,28 @@
-# React + Vite
+<h1 align="center">Cotizador Criptomonedas</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
+   <h3>
+    <a target="_blank" href="https://github.com/brandongc9911/Cotizador-Criptos">
+      Repositorio
+    </a>
+    <span> | </span>
+    <a target="_blank" href="https://playful-llama-85718d.netlify.app">
+      Demo
+    </a>
+  </h3>
+</div>
 
-Currently, two official plugins are available:
+!['app'](src/img/imagen-criptos.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Cotizador Criptomonedas** es una aplicacion web para la cotizacion del precio en tiempo real de distintas criptomonedas. El proyecto está desarrollado utilizando las siguientes tecnologías:
+
+* HTML
+* JavaScript
+* React
+* Vite
+* API cryptocompare
+
+## Contact
+- Website [gcdev](https://gcdev.alwaysdata.net)
+- GitHub [@brandongc9911](https://github.com/brandongc9911)
+- Linkedin [@brandon-gomez-contreras](https://www.linkedin.com/in/brandon-gomez-contreras-49b709226/)
